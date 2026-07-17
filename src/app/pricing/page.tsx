@@ -1,0 +1,1 @@
+import type {Metadata} from 'next';import {Pricing} from '@/components/marketing';export const metadata:Metadata={title:'AI Calling Agent Pricing',description:'Compare simulated CallPilot AI plans and conversation capacity.',alternates:{canonical:'/pricing'}};export default function Page(){return <Pricing/>}

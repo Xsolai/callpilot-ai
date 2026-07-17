@@ -1,0 +1,9 @@
+CallPilot AI
+Copyright (c) 2026 XsolAI. All rights reserved.
+
+Created by Ahsan Inam.
+
+This proprietary repository is a public frontend demonstration only. No license
+is granted to copy, modify, distribute, sublicense, sell, or use this software
+without prior written permission from XsolAI. All operational data is simulated.
+

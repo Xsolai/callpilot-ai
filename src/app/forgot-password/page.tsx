@@ -1,0 +1,1 @@
+import type {Metadata} from 'next';import {Auth} from '@/components/flows';export const metadata:Metadata={title:'Forgot password',robots:{index:false,follow:false}};export default function Page(){return <Auth mode="forgot"/>}
