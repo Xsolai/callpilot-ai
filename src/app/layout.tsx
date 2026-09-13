@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import { DemoProvider } from '@/lib/store';
 
-const site = 'https://callpilot-ai-brown.vercel.app';
+const site = 'https://callpilot.xsol.ai';
 const company = 'https://xsolai.com';
 
 export const metadata: Metadata = {
