@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const site = 'https://callpilot-ai-brown.vercel.app';
+const site = 'https://callpilot.xsol.ai';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
